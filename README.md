@@ -1,4 +1,4 @@
-# dk-platform-dashboard-ui
+# platform-dashboard-ui
 
 一体化集成平台基础框架版，有菜单导航等组件
 
